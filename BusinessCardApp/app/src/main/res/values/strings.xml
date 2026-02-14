@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="jennifer_doe">Jennifer Doe</string>
+    <string name="android_developer_extraordinaire">Android Developer Extraordinaire</string>
+    <string name="_11_123_555_666">+11 (123) 555 666</string>
+    <string name="androiddev">\@AndroidDev</string>
+    <string name="jen_doe_android_com">jen.doe@android.com</string>
+</resources>
